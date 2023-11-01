@@ -5,6 +5,10 @@ accountCity = "veraval"
 let accountState;
 
 
+/*
+Perefer not to use var 
+
+*/
 accountEmail = "jay@gmail.com"
 accountPassword = "2121212445"
 accountCity = "somnath"
